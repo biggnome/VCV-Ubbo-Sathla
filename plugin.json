@@ -1,0 +1,25 @@
+{
+  "slug": "Ubbo-Sathla",
+  "name": "Ubbo-Sathla",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Magus Instrumentalis",
+  "author": "David Kant, Ryan Page, Mustafa Walker",
+  "authorEmail": "david@magusinstrumentalis.com",
+  "authorUrl": "",
+  "pluginUrl": "https://magusinstrumentalis.com/",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": [
+    {
+      "slug": "UBBO",
+      "name": "Ubbo-Sathla",
+      "description": "20HP Blank Panel\n“A mass without head or members, spawning the grey,\nformless efts of the prime and the grisly prototypes of terrene life…”",
+      "tags": [
+        "Blank",
+        "Hardware clone"
+      ]
+    }
+  ]
+}
