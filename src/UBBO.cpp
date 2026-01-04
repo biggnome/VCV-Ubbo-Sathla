@@ -16,7 +16,7 @@ struct UBBOWidget : ModuleWidget {
 
         backdrop = new ImagePanel();
                 backdrop->box.size = Vec(MODULE_SIZE * RACK_GRID_WIDTH, RACK_GRID_HEIGHT);
-                backdrop->imagePath = asset::plugin(pluginInstance, "res/UBBO-bg.jpg");
+                backdrop->imagePath = asset::plugin(pluginInstance, "res/UBBO-new.png");
                 backdrop->scalar = 4.0;
                 backdrop->visible = true;
         setPanel(backdrop);
